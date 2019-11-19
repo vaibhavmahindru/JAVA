@@ -19,7 +19,7 @@ void display(int n)
 	    }
 	}
 }
-class Pattern1
+public class class Pattern1
 {
 	public static void main(String[] args) 
 	{

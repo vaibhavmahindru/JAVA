@@ -1,13 +1,12 @@
-
-
 import java.util.Scanner;
 
 class Factorial {
-int f;
-    int fact(int a) {
+	int f;
+    	int fact(int a) {
         int i, f = 1;
 
-        for (i = 1; i <= a; i++) {
+        for (i = 1; i <= a; i++) 
+	{
             f = f * i;
         }
 	
